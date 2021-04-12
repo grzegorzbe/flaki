@@ -4,12 +4,12 @@ This application tries to find all hidden invaders that were detected with a rad
 
 Assumptions:
 
-[x] it should work for correct input
-[x] it should finish before nails get visibly longer
-[x] classes should be small
-[x] nested modules in use
-[x] library code separated from actual runner code
-[ ] fully tested (almost, no time for more at the moment)
+- [x] it should work for correct input
+- [x] it should finish before nails get visibly longer
+- [x] classes should be small
+- [x] nested modules in use
+- [x] library code separated from actual runner code
+- [ ] fully tested (almost, no time for more at the moment)
 
 Limitations (due to time constraint):
 
